@@ -57,10 +57,7 @@ function Phones() {
          </div>
         
           </div>
-        </div>
-       
-        
-         
+        </div>  
       </div>
     </div>
   );
